@@ -8,5 +8,5 @@ Required python libraries are: sgp4, matplotlib, and numpy.
 
 URL to GitHub repository: https://github.com/Mandy-Pu/Python-TLE-Visualizer 
 
-URL to Docker Hub image: https://hub.docker.com/repository/docker/mandypu980/python-visualize
+URL to Docker Hub image: https://hub.docker.com/r/mandypu980/python-visualize
 
